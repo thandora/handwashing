@@ -15,6 +15,10 @@ To install the libraries and dependencies needed to run the notebook, run:
 `matplotlib`, `seaborn`, `plotly` - for visualization of data insights.  
 `scipy` - for statistics, specifically for getting the significance of the results.
 
+## Viewing Study
+
+Actual analysis is found on the notebook `main.ipynb`.
+
 ## Author
 
 Christian Klint M. Labadia
